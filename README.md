@@ -47,5 +47,5 @@ A user-friendly GUI data analyzer that allows users to easily upload and analyze
 To install the GUI Data Analyzer, clone the repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/yourusername/gui-data-analyzer.git
-cd gui-data-analyzer
+https://github.com/Tareq905/data-analyzer.git
+cd data-analyzer
