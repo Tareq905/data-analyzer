@@ -49,4 +49,3 @@ To install the GUI Data Analyzer, clone the repository and install the required 
 ```bash
 git clone https://github.com/yourusername/gui-data-analyzer.git
 cd gui-data-analyzer
-pip install -r requirements.txt
